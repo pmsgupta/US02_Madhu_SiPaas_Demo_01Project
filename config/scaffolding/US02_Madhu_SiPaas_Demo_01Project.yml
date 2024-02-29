@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: US02_Madhu_SiPaas_Demo_01Project
+  gitServerName: MadhuPersonRepo
+  gitUrl: https://github.com/pmsgupta/US02_Madhu_SiPaas_Demo_01Project
+  gitUsername: pmsgupta
+  gitBranch: main
